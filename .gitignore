@@ -1,0 +1,42 @@
+# compile files
+*.class
+target/
+bin/
+build/
+dist/
+
+# IDEs and editors
+.idea
+*.iml
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+nbproject/
+buid.xml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Log file
+*.log
+
+# Temporary files
+*~
+
+# SO dependant files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+.Trash-*
+Desktop.ini
+$RECYCLE.BIN/
+*.DS_Store
+.Trashes
+*~
