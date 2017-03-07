@@ -49,10 +49,10 @@
         <configuration>
           <mainClass>com.malkomich.hashcode2017.Main</mainClass>
           <!-- optional arguments -->
-          <arguments>
-            <argument>-X</argument>
-            <argument>myproject:dist</argument>
-          </arguments>
+<!--           <arguments> -->
+<!--             <argument>-X</argument> -->
+<!--             <argument>myproject:dist</argument> -->
+<!--           </arguments> -->
         </configuration>
       </plugin>
     </plugins>
